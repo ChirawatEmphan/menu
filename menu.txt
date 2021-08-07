@@ -1,0 +1,523 @@
+{
+  "line": {
+    "altText": "Flex Message",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "body": {
+            "type": "box",
+            "contents": [
+              {
+                "size": "xl",
+                "weight": "bold",
+                "text": "Standard Room",
+                "type": "text"
+              },
+              {
+                "type": "box",
+                "contents": [
+                  {
+                    "size": "sm",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "sm",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "size": "sm",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon"
+                  },
+                  {
+                    "size": "sm",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "text",
+                    "color": "#999999",
+                    "size": "sm",
+                    "text": "3.0",
+                    "margin": "md"
+                  }
+                ],
+                "margin": "md",
+                "layout": "baseline"
+              },
+              {
+                "contents": [
+                  {
+                    "layout": "baseline",
+                    "type": "box",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "type": "text",
+                        "text": "Wifi",
+                        "color": "#AAAAAA"
+                      },
+                      {
+                        "color": "#666666",
+                        "type": "text",
+                        "size": "sm",
+                        "wrap": true,
+                        "text": "Free"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "text": "อาหาร",
+                        "type": "text"
+                      },
+                      {
+                        "wrap": true,
+                        "text": "อาหารเช้า x2",
+                        "color": "#666666",
+                        "type": "text",
+                        "size": "sm"
+                      }
+                    ],
+                    "layout": "baseline",
+                    "spacing": "sm"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "type": "text",
+                        "text": "เตียง",
+                        "color": "#AAAAAA"
+                      },
+                      {
+                        "size": "sm",
+                        "type": "text",
+                        "color": "#666666",
+                        "text": "เดี่ยว"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "baseline"
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "text": "ราคา",
+                        "type": "text",
+                        "color": "#AAAAAA"
+                      },
+                      {
+                        "type": "text",
+                        "text": "1,200",
+                        "size": "sm",
+                        "color": "#666666"
+                      }
+                    ],
+                    "layout": "baseline"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "lg",
+                "type": "box",
+                "layout": "vertical"
+              }
+            ],
+            "layout": "vertical"
+          },
+          "footer": {
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "button",
+                "color": "#FF0101",
+                "action": {
+                  "type": "message",
+                  "label": "จองเลย",
+                  "text": "Standard Room"
+                },
+                "height": "sm",
+                "style": "primary"
+              },
+              {
+                "size": "sm",
+                "type": "spacer"
+              }
+            ],
+            "type": "box",
+            "layout": "vertical"
+          },
+          "type": "bubble",
+          "hero": {
+            "url": "https://f.hongpak.in.th/media/rooms/thbs3x/18/1102/20_7819.jpg",
+            "aspectRatio": "20:13",
+            "type": "image",
+            "aspectMode": "cover",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "uri": "https://linecorp.com/",
+              "label": "Line"
+            }
+          }
+        },
+        {
+          "hero": {
+            "size": "full",
+            "aspectRatio": "20:13",
+            "url": "https://www.teepak360.com/storage/201901207820727461.jpeg",
+            "type": "image",
+            "action": {
+              "type": "uri",
+              "label": "Line",
+              "uri": "https://linecorp.com/"
+            },
+            "aspectMode": "cover"
+          },
+          "footer": {
+            "type": "box",
+            "spacing": "sm",
+            "layout": "vertical",
+            "contents": [
+              {
+                "action": {
+                  "label": "จองเลย",
+                  "type": "message",
+                  "text": "Middle Room"
+                },
+                "height": "sm",
+                "color": "#FF0000",
+                "type": "button",
+                "style": "primary"
+              },
+              {
+                "type": "spacer",
+                "size": "sm"
+              }
+            ]
+          },
+          "type": "bubble",
+          "body": {
+            "contents": [
+              {
+                "text": "Middle Room",
+                "weight": "bold",
+                "size": "xl",
+                "type": "text"
+              },
+              {
+                "type": "box",
+                "contents": [
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon",
+                    "size": "sm"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "type": "icon",
+                    "size": "sm"
+                  },
+                  {
+                    "size": "sm",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "sm",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "sm",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  },
+                  {
+                    "color": "#999999",
+                    "text": "4.0",
+                    "type": "text",
+                    "margin": "md",
+                    "size": "sm"
+                  }
+                ],
+                "layout": "baseline",
+                "margin": "md"
+              },
+              {
+                "margin": "lg",
+                "type": "box",
+                "contents": [
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "color": "#AAAAAA",
+                        "size": "sm",
+                        "text": "Wifi",
+                        "type": "text"
+                      },
+                      {
+                        "text": "Free",
+                        "color": "#666666",
+                        "size": "sm",
+                        "wrap": true,
+                        "type": "text"
+                      }
+                    ],
+                    "spacing": "sm",
+                    "layout": "baseline"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "color": "#AAAAAA",
+                        "text": "อาหาร",
+                        "type": "text",
+                        "size": "sm"
+                      },
+                      {
+                        "wrap": true,
+                        "color": "#666666",
+                        "size": "sm",
+                        "text": "อาหารเช้า x2",
+                        "type": "text"
+                      }
+                    ],
+                    "layout": "baseline",
+                    "spacing": "sm",
+                    "type": "box"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เตียง",
+                        "size": "sm",
+                        "color": "#AAAAAA"
+                      },
+                      {
+                        "color": "#666666",
+                        "type": "text",
+                        "size": "sm",
+                        "text": "คู่"
+                      }
+                    ],
+                    "layout": "baseline",
+                    "type": "box"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "type": "text",
+                        "text": "ราคา"
+                      },
+                      {
+                        "type": "text",
+                        "color": "#666666",
+                        "text": "1,500",
+                        "size": "sm"
+                      }
+                    ],
+                    "layout": "baseline",
+                    "type": "box"
+                  }
+                ],
+                "spacing": "sm",
+                "layout": "vertical"
+              }
+            ],
+            "layout": "vertical",
+            "type": "box"
+          }
+        },
+        {
+          "footer": {
+            "contents": [
+              {
+                "type": "button",
+                "color": "#FF0101",
+                "height": "sm",
+                "action": {
+                  "type": "message",
+                  "label": "จองเลย",
+                  "text": "Hight Room"
+                },
+                "style": "primary"
+              },
+              {
+                "size": "sm",
+                "type": "spacer"
+              }
+            ],
+            "spacing": "sm",
+            "layout": "vertical",
+            "type": "box"
+          },
+          "type": "bubble",
+          "direction": "ltr",
+          "body": {
+            "layout": "vertical",
+            "type": "box",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Hight Room (ติดทะเล)",
+                "size": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "box",
+                "contents": [
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "sm",
+                    "type": "icon"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "sm",
+                    "type": "icon"
+                  },
+                  {
+                    "type": "icon",
+                    "size": "sm",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                    "size": "sm",
+                    "type": "icon"
+                  },
+                  {
+                    "size": "sm",
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "text": "5.0",
+                    "color": "#999999",
+                    "margin": "md",
+                    "type": "text",
+                    "size": "sm"
+                  }
+                ],
+                "layout": "baseline",
+                "margin": "md"
+              },
+              {
+                "margin": "lg",
+                "contents": [
+                  {
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "text": "Wifi",
+                        "color": "#AAAAAA",
+                        "type": "text",
+                        "size": "sm"
+                      },
+                      {
+                        "text": "Free",
+                        "wrap": true,
+                        "size": "sm",
+                        "type": "text",
+                        "color": "#666666"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "baseline"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "text": "อาหาร",
+                        "color": "#AAAAAA",
+                        "type": "text"
+                      },
+                      {
+                        "wrap": true,
+                        "size": "sm",
+                        "text": "อาหารเช้า x2",
+                        "type": "text",
+                        "color": "#666666"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "baseline",
+                    "spacing": "sm"
+                  },
+                  {
+                    "layout": "baseline",
+                    "type": "box",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "เตียง",
+                        "size": "sm",
+                        "color": "#AAAAAA"
+                      },
+                      {
+                        "size": "sm",
+                        "text": "เดี่ยว",
+                        "color": "#666666",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "size": "sm",
+                        "text": "ราคา",
+                        "color": "#AAAAAA",
+                        "type": "text"
+                      },
+                      {
+                        "size": "sm",
+                        "type": "text",
+                        "color": "#666666",
+                        "text": "2,500"
+                      }
+                    ],
+                    "type": "box"
+                  }
+                ],
+                "type": "box",
+                "spacing": "sm",
+                "layout": "vertical"
+              }
+            ]
+          },
+          "hero": {
+            "type": "image",
+            "aspectMode": "cover",
+            "action": {
+              "type": "uri",
+              "label": "Line",
+              "uri": "https://linecorp.com/"
+            },
+            "url": "https://travel.mthai.com/app/uploads/2013/05/Twin-Lotus-Gardenview-Villa-Bedroom.jpg",
+            "size": "full",
+            "aspectRatio": "20:13"
+          }
+        }
+      ]
+    },
+    "type": "flex"
+  }
+}
